@@ -1,12 +1,11 @@
 # Stop Troublemakers On My Port
 
-STOMP is a GUI application that will reveal every remote IP address that sends/receives a user-defined number of network packets for a user-defined protocol and port number within a user defined time period. In addition, it gives the option to block any of the IP addresses in Windows Firewall by setting both inbound and outbound traffic rules.
+STOMP is a GUI application that will reveal every remote IP address that sends/receives a user-defined number of network packets for a user-defined protocol and port number within a user-defined time period. In addition, it gives the option to block any of the IP addresses in Windows Firewall by setting both inbound and outbound traffic rules.
 
 ## Limitations
 
 Only listens on one network device.
-Only listens/blocks one protocol.
-Only listens/blocks one port.
+Only listens/blocks one port/protocol.
 
 ## Requirements
 
