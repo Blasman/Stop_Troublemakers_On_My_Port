@@ -15,7 +15,8 @@ Only listens/blocks one port/protocol.
 ## Config Settings
 
 Default config.ini file:
-```[Settings]
+```
+[Settings]
 # REQUIRED SETTINGS:
 PROTOCOL = UDP               # Protocol to monitor (UDP/TCP)
 PORT =                       # Port number to monitor
